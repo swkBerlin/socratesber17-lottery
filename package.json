@@ -1,0 +1,14 @@
+{
+  "name": "socratesdayber-2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample_from_mails.js",
+  "scripts": {
+    "start": "node sample_from_mails.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "seedrandom": "^2.4.3"
+  }
+}
